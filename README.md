@@ -31,4 +31,4 @@ revenue patterns, customer behavior, and product performance.
 - Horizontal Bar Chart — Best and worst selling pizzas
 
 ## Dashboard Link
-[Click here to view the dashboard]([Dashboard Link]https://datastudio.google.com/reporting/26e0afb2-3a4b-4e9c-a554-29c1e51b9a80/page/p_xq45vjdg1d)
+[Click here to view the dashboard]([Dashboard Link](https://datastudio.google.com/reporting/26e0afb2-3a4b-4e9c-a554-29c1e51b9a80/page/p_xq45vjdg1d))
