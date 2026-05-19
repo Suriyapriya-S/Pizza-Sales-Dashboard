@@ -1,7 +1,7 @@
 # Pizza Sales Dashboard
 
 ## Project Overview
-This project analyzes pizza sales data from 2015 to identify
+This project analyzes pizza sales data to identify
 revenue patterns, customer behavior, and product performance.
 
 ## Tools Used
